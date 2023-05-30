@@ -18,7 +18,9 @@ Deliverables:
 
 Create a GitHub repository for your project and submit a GitHub link for it.
 
-Screenshot of Assignment 2
+Screenshot of Assignment 2:
+
+<img src="https://github.com/thompln83/CPSC5330-Assignment-2-AutoLayout-and-Constraints/blob/a142734c816898df46ae8221a9503291502fd843/Calculator_Design/Docs/Screenshot%202023-05-30%20at%203.14.52%20PM.png">
 
 
 
